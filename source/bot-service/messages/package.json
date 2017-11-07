@@ -1,0 +1,26 @@
+{
+  "name": "luisbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "azure-storage": "^2.3.0",
+    "bluebird": "^3.5.0",
+    "botbuilder": "^3.7.0",
+    "botbuilder-azure": "3.0.2",
+    "dotenv": "^4.0.0",
+    "dotenv-extended": "^1.0.4",
+    "memory-cache": "^0.2.0",
+    "request": "^2.79.0",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {
+    "restify": "^4.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
