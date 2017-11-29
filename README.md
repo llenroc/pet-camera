@@ -1,12 +1,12 @@
 ## Preparing environment
 PetCameraBot is a personal hack project that allow me to do a remote monitoring of my pets when I'm out of home.
 
-<img src="http://rcervantes.me/images/pets.png">
+<img src="http://rcervantes.me/images/pets.png" />
 
 The main goal is to be able to request through a bot exposed to the internet a video of 30 seconds, a minute or a minute and a half, which will be processed by the raspberry and returned to be stored in an azure container.
 
 ## Architecture
-<img src="http://rcervantes.me/images/petcamerabot-architecture.png" width="550">
+<img src="http://rcervantes.me/images/petcamerabot-architecture.png" width="550" />
 
 ## Prerequisites
 - Raspberry Pi Zero W / Raspberry Pi 3 / Raspberry Pi 2
@@ -211,16 +211,16 @@ You can test the bot service in three ways:
 
 Raspberry Pi Zero W
 
-<img src="http://rcervantes.me/images/raspberry-petcamera.png"  width="550">
+<img src="http://rcervantes.me/images/raspberry-petcamera.png"  width="550" />
 
 Welcome and first conversation.
 
-<img src="http://rcervantes.me/images/petcamera-rasp3.png"  width="250">
+<img src="http://rcervantes.me/images/petcamera-rasp3.png"  width="250" />
 
 Second conversation.
 
-<img src="http://rcervantes.me/images/petcamera-rasp4.png" width="250">
+<img src="http://rcervantes.me/images/petcamera-rasp4.png" width="250" />
 
 Displaying the video.
 
-<img src="http://rcervantes.me/images/petcamera-rasp5.png" width="250">
+<img src="http://rcervantes.me/images/petcamera-rasp5.png" width="250" />
